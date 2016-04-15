@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3FB232A6DFBF51988CE8982F113F876CD542B7BC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3FB232A6DFBF51988CE8982F113F876CD542B7BC" : 0,
+    "8ACFE5037BBA7C3DB34C943CA65881B264CE6E1A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "59A0FBD3-335F-412A-BCC7-CADFA999FA3B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3FB232A6DFBF51988CE8982F113F876CD542B7BC" : "leanchat",
+    "8ACFE5037BBA7C3DB34C943CA65881B264CE6E1A" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LeanChatLib",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LeanChatLib\/LeanChatLib.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lzwjava\/leanchat-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3FB232A6DFBF51988CE8982F113F876CD542B7BC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:avoscloud\/avoscloud-demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8ACFE5037BBA7C3DB34C943CA65881B264CE6E1A"
+    }
+  ]
+}
